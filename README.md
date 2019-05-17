@@ -9,10 +9,12 @@
 ![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
 
 ## Rocketseat Launch 
+Aniversário de dois anos da Rocketseat.
 
 ### Vídeo #1 - Prepara-se para o lançamento - 13/05/2019
 - Assistido em 16/05/2019 : 17:20
-- Rocketseat Launch : em comemoração de dois anos, uma semana com parceria Rocketseat (programadores) e Vulpi (vagas devs).
+- Parceria Rocketseat (programadores) e Vulpi (vagas devs).
+- Primeiro Projeto OpenSource da Rocketseat - Unform Library
 - Exemplo Prático : formulário
 1. unform library
 2. Yup
@@ -25,10 +27,12 @@
 3. Library Unform : biblioteca para trabalhar com formulário
 4. enviar na comunidade discord 
 
-
 ### Vídeo #2 - Estabelecendo a conexão - 14/05/2019
 - Assistido em 17/05/2019 : 17:45
-
+- Oportunidades: Impulso Network
+- Impulso Network: @impulsonetwork ; impulso.network
+- Modelo: Hollywood Model , Freelancer , Projeto
+- Impulso Network : Rafael e Luiz
 
 ### Vídeo #3 - Ativando os propulsores - 15/05/2019
 
