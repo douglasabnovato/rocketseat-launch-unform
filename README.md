@@ -13,7 +13,7 @@
 ### Vídeo #1 - Prepara-se para o lançamento - 13/05/2019
 - Assistido em 16/05/2019 : 17:20
 - Rocketseat Launch : em comemoração de dois anos, uma semana com parceria Rocketseat (programadores) e Vulpi (vagas devs).
-- Formulário de exemplo
+- Exemplo Prático : formulário
 1. unform library
 2. Yup
 3. `create-react-app exampleform`
