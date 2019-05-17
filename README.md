@@ -35,6 +35,12 @@ Aniversário de dois anos da Rocketseat.
 - Impulso Network : Rafael e Luiz
 
 ### Vídeo #3 - Ativando os propulsores - 15/05/2019
+- Assistindo em 17/05/2019 : 19:40
+- ProLancer: a evolução do freelancer
+- Vagas, experiências, oportunidades, processos
+- @Bossabox: edu, camila, nicolas
+- Ferramentas Dev : scrum, trello, slack
+- team: gerente de produto, tech, designer, dev front, dev back
 
 ### Vídeo #4 - Contagem regressiva - 16/05/2019
 
