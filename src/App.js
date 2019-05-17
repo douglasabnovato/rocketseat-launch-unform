@@ -3,7 +3,7 @@ import * as Yup from 'yup';
 import { Form, Scope, Input } from '@rocketseat/unform';
 
 const initialData = { 
-  name: 'Diego',
+  name: 'Diego Silva',
   address: {
     street: 'Rua dos Artistas',
   },
