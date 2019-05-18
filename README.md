@@ -43,9 +43,11 @@ Aniversário de dois anos da Rocketseat.
 - team: gerente de produto, tech, designer, dev front, dev back
 
 ### Vídeo #4 - Contagem regressiva - 16/05/2019
+- @govulpi - Rafael
 
 ### Vídeo #5 - Rumo ao espaço - 17/05/2019
-
+- @diegosf
+- @filipedeschamps
 
 :. Desenvolvimento de projetos em React pela Rocketseat Launch.
 Por Diego Fernandes : www.rocketseat.com.br
