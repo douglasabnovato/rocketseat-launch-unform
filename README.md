@@ -43,11 +43,15 @@ Aniversário de dois anos da Rocketseat.
 - team: gerente de produto, tech, designer, dev front, dev back
 
 ### Vídeo #4 - Contagem regressiva - 16/05/2019
-- @govulpi - Rafael
+- Parceira Vulpi para recrutadores de dev : @govulpi - Rafael
+- Network junto de recrutadores e empresas de recrutamento.
+- A importância de um perfil no linkedin atualizado com cursos, projetos, experiências, formação acadêmica, artigos publicados.
+- Vagas da goVulpi
 
 ### Vídeo #5 - Rumo ao espaço - 17/05/2019
 - @diegosf
 - @filipedeschamps
+- Evento Presencial da Rocketseat em Novembro : 25, 26 e 27.
 
-:. Desenvolvimento de projetos em React pela Rocketseat Launch.
+:. Aproximação da Comunidade com vagas Dev. Desenvolvimento de projetos em React durante Rocketseat Launch.
 Por Diego Fernandes : www.rocketseat.com.br
