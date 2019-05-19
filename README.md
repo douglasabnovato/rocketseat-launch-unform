@@ -49,9 +49,15 @@ Aniversário de dois anos da Rocketseat.
 - Vagas da goVulpi
 
 ### Vídeo #5 - Rumo ao espaço - 17/05/2019
-- @diegosf
-- @filipedeschamps
+- @diegosf - Diego Fernandes
+- @filipedeschamps - Filipe Deschamps
 - Evento Presencial da Rocketseat em Novembro : 25, 26 e 27.
+1. hackatons
+2. mentorias
+3. workshops
+4. empresas de tecnologias
+5. empresas de recrutamento
+- Rocketseat com projeto OpenSource - plataforma de educação de código.
 
 :. Aproximação da Comunidade com vagas Dev. Desenvolvimento de projetos em React durante Rocketseat Launch.
 Por Diego Fernandes : www.rocketseat.com.br
