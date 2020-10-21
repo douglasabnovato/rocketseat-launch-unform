@@ -48,15 +48,15 @@ We expect you to follow our [Code of Conduct](/.github/CODE_OF_CONDUCT.md). You 
 
 If you need help with Unform, feel free to open an issue with a description of the problem you're facing. Or, if you prefer, you can chat with us on our [Discord Community](https://discordapp.com/invite/gCRAFhc).
 
-## Atualização: 17 de maio de 2019 - 17:47
-## Criação: 16 de maio de 2019
-## Prática : @douglasabnovato
+### Atualização: 17 de maio de 2019 - 17:47
+### Criação: 16 de maio de 2019
+### Prática : @douglasabnovato
 
 ![Git](/images/logo-git.png)
 ![GitHub](/images/logo-github.png)
 ![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
 
-## Rocketseat Launch 
+### Rocketseat Launch 
 Aniversário de dois anos da Rocketseat.
 
 ### Vídeo #1 - Prepara-se para o lançamento - 13/05/2019
