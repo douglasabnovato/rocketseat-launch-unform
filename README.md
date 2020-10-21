@@ -114,5 +114,5 @@ Aniversário de dois anos da Rocketseat.
 4. empresas de tecnologias
 5. empresas de recrutamento
 
-.: Por [Douglas A B Novato](https://linktr.ee/douglasabnovato)
+.: Por [Douglas A B Novato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Launch](https://www.rocketseat.com.br)
