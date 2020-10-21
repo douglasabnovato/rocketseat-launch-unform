@@ -63,7 +63,7 @@ If you need help with Unform, feel free to open an issue with a description of t
 5. react-scripts - v3.0.1
 - Rodar o projeto: `npm start`
 
-#### Rocketseat Launch - Anotações 
+#### Anotações  
 
 Aniversário de dois anos da Rocketseat.
 
@@ -113,8 +113,6 @@ Aniversário de dois anos da Rocketseat.
 3. workshops
 4. empresas de tecnologias
 5. empresas de recrutamento
-- Rocketseat com projeto OpenSource - plataforma de educação de código.
 
-:. Aproximação da Comunidade com vagas Dev. <br/>
-:. Desenvolvimento de projetos em React durante Rocketseat Launch.<br/>
-:. Por Diego Fernandes : www.rocketseat.com.br
+.: Por [Douglas A B Novato](https://linktr.ee/douglasabnovato)
+. De [Rocketseat - Launch](https://www.rocketseat.com.br)
