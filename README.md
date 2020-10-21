@@ -2,7 +2,7 @@
   <img src="https://storage.googleapis.com/golden-wind/unform/unform.svg" height="150" width="175" alt="Unform" />
 </p>
 <h3 align="center">
-  Formulários fáceis e altamente escaláveis ReactJS & React Native ! 🚀
+  Formulários fáceis e altamente escaláveis ReactJS ! 🚀
 </h3>
 <br>
 <div align="center">
@@ -12,11 +12,11 @@
 
 </div>
 
-## Overview
-
 ### Aplicação 
 
 ![aplicação](/images/unform-reactjs.jpg)
+
+## Overview
 
 Unform is a performance focused library that helps you creating beautiful forms in ReactJS & React Native with the power of uncontrolled components performance and React Hooks.
 
@@ -51,14 +51,6 @@ We expect you to follow our [Code of Conduct](/.github/CODE_OF_CONDUCT.md). You 
 ## Need help?
 
 If you need help with Unform, feel free to open an issue with a description of the problem you're facing. Or, if you prefer, you can chat with us on our [Discord Community](https://discordapp.com/invite/gCRAFhc).
-
-### Atualização: 17 de maio de 2019 - 17:47
-### Criação: 16 de maio de 2019
-### Prática : @douglasabnovato
-
-![Git](/images/logo-git.png)
-![GitHub](/images/logo-github.png)
-![HTML-CSS-JS](/images/logo-html-css-js.jpeg)
 
 #### Projeto
 
