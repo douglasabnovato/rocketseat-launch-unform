@@ -10,7 +10,7 @@ const initialData = {
     street: 'Hollywood',
     number: '129',
     zipcode: '129129000'
-  },
+  }
 };
 
 const schema = Yup.object().shape({
@@ -20,16 +20,19 @@ const schema = Yup.object().shape({
   })
 });
 
-function App() {
+export default function App() {
 
   function handleSubmit(data, { reset }) {
     console.log(data);
-
     reset();
   }
 
   return (
-    <Form schema={schema} initialData={initialData} onSubmit={handleSubmit}>
+    <Form 
+      schema={schema} 
+      initialData={initialData} 
+      onSubmit={handleSubmit}
+    >
       <img
         src="https://storage.googleapis.com/golden-wind/unform/unform.svg"
         height="150"
@@ -46,6 +49,4 @@ function App() {
       <button type="submit">Enviar</button>
     </Form>    
   );
-}
-
-export default App;  
+} 

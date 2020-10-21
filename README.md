@@ -65,6 +65,7 @@ If you need help with Unform, feel free to open an issue with a description of t
 3. react - v16.12.0
 4. react-dom - v16.12.0
 5. react-scripts - v3.0.1
+- Rodar o projeto: `npm start`
 
 #### Rocketseat Launch - Anotações 
 
@@ -75,7 +76,7 @@ Aniversário de dois anos da Rocketseat.
 - Parceria Rocketseat (programadores) e Vulpi (vagas devs).
 - Primeiro Projeto OpenSource da Rocketseat - Unform Library 
 1. unform library
-2. Yup
+2. Yup: validar formulário
 3. `create-react-app exampleform`
 4. `yarn add @rocketseat/unform`
 5. `yarn add yup`
